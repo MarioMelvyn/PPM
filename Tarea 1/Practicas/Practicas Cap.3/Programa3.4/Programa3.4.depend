@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695359770 source:c:\users\mario\documents\practicas\practicas cap.3\programa3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
