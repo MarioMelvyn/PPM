@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695343328 source:c:\users\mario\documents\code\programa 2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695343328 source:c:\users\mario\documents\practicas\programa 2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
