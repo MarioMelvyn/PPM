@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699957569 source:c:\users\mario\desktop\loteria2.2\version 3\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+

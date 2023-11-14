@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699954478 source:c:\users\mario\documents\practicas\loteria dominicana\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1699957919 source:c:\users\mario\desktop\loteria1.0\version2\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
