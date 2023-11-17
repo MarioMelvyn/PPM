@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700228597 source:c:\users\mario\documents\practicas\maloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
