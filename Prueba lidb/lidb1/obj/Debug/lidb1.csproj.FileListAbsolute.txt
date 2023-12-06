@@ -1,0 +1,20 @@
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\bin\Debug\lidb1.exe.config
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\bin\Debug\lidb1.exe
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\bin\Debug\lidb1.pdb
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\bin\Debug\LiteDB.dll
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\bin\Debug\LiteDB.xml
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\obj\Debug\lidb1.csproj.AssemblyReference.cache
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\obj\Debug\lidb1.csproj.CoreCompileInputs.cache
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\obj\Debug\lidb1.csproj.CopyComplete
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\obj\Debug\lidb1.exe
+C:\Users\victus\OneDrive\Desktop\programas de visual studios\lidb1\lidb1\obj\Debug\lidb1.pdb
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\bin\Debug\lidb1.exe.config
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\bin\Debug\lidb1.exe
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\bin\Debug\lidb1.pdb
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\bin\Debug\LiteDB.dll
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\bin\Debug\LiteDB.xml
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\obj\Debug\lidb1.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\obj\Debug\lidb1.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\obj\Debug\lidb1.csproj.CopyComplete
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\obj\Debug\lidb1.exe
+C:\Users\Mario\Desktop\Nueva carpeta\lidb1\obj\Debug\lidb1.pdb
