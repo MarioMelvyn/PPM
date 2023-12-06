@@ -1,0 +1,47 @@
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.sourcelink.json
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Programación\Programación para Mecatrónicos\PPM\Ejemplos\Calculadora-main\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.sourcelink.json
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Mario\Desktop\PPMM\Programacion\Tarea 8\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Mario\Desktop\Calc\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
